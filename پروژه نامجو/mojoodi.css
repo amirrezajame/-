@@ -1,0 +1,7 @@
+#customer 
+th, table,td{
+    border: 3px solid rgb(201, 37, 37);
+    margin: 23px;
+    padding: 23px;
+    border-style: groove;
+  }

@@ -1,0 +1,16 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    background-color: rgb(234, 255, 2);
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+main{   
+    background-image:url('/logo.png');
+    background-size: cover;
+    height: 100px;
+    background-position: center;
+    background-repeat: repeat;
+}
